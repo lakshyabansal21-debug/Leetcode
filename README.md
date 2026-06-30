@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
