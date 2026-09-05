@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0136-single-number) |
 | [3903-smallest-stable-index-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
