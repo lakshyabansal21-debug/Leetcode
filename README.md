@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -103,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
