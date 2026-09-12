@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0136-single-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0069-sqrtx) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0070-climbing-stairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
