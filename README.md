@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0136-single-number) |
+| [0835-image-overlap](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
