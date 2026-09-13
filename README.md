@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
