@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0067-add-binary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
