@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0835-image-overlap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0069-sqrtx) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
