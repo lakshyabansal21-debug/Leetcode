@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0136-single-number) |
 | [0835-image-overlap](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0835-image-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -150,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
@@ -187,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
@@ -219,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lakshyabansal21-debug/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
