@@ -7,7 +7,6 @@ private:
     static constexpr int MOD = 1e9 + 7;
     vector<vector<long long>> table;
 
-    // Precompute Pascal's triangle for combination values C(n, k)
     void precomputeCombinations(int n) {
         table.assign(n + 1, vector<long long>(n + 1, 0));
         for (int i = 0; i <= n; ++i) {
@@ -39,7 +38,6 @@ private:
         int leftLen = leftNums.size();
         int rightLen = rightNums.size();
 
-        // C(leftLen + rightLen, leftLen) * leftWays * rightWays
         long long totalWays = (table[leftLen + rightLen][leftLen] * leftWays) % MOD;
         totalWays = (totalWays * rightWays) % MOD;
 
